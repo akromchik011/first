@@ -1,0 +1,48 @@
+main {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-right: 100px;
+}
+.right h1 {
+  font-weight: 900;
+}
+form {
+  display: flex;
+  flex-direction: column;
+}
+form input {
+  height: 30px;
+  border-radius: 5px;
+  border: 1px solid #e8e8e8;
+}
+.hasan {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.ptext {
+  margin-right: 30px;
+}
+.btn1 {
+  height: 40px;
+  margin-top: 10px;
+  background-color: #04c35c;
+  color: white;
+  border-radius: 5px;
+  border: none;
+}
+.btn2 {
+  height: 40px;
+  margin-top: 20px;
+  background-color: #2d3748;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.btn2 img {
+  margin-right: 10px;
+}
